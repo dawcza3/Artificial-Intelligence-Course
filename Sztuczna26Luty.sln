@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SieciBayes", "SieciBayes\Si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaussianInfraNet", "GaussianInfraNet\GaussianInfraNet.csproj", "{23D40355-C3E7-47BF-B537-37E397BE256C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkovChains", "MarkovChains\MarkovChains.csproj", "{D268901F-3BAC-430D-A5DD-A18275184217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LosoweKroki", "LosoweKroki\LosoweKroki.csproj", "{7D9CD65A-B2CF-432B-99E8-65B2A76E01CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{23D40355-C3E7-47BF-B537-37E397BE256C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23D40355-C3E7-47BF-B537-37E397BE256C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23D40355-C3E7-47BF-B537-37E397BE256C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D268901F-3BAC-430D-A5DD-A18275184217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D268901F-3BAC-430D-A5DD-A18275184217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D268901F-3BAC-430D-A5DD-A18275184217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D268901F-3BAC-430D-A5DD-A18275184217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9CD65A-B2CF-432B-99E8-65B2A76E01CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9CD65A-B2CF-432B-99E8-65B2A76E01CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9CD65A-B2CF-432B-99E8-65B2A76E01CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9CD65A-B2CF-432B-99E8-65B2A76E01CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
