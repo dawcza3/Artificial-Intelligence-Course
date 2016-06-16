@@ -19,6 +19,8 @@ namespace AlgorytmGenetycznyMinimumGlobalneFunkcji
             //create a Population of 100 random chromosomes of length 44
             var population = new Population(100, 44, false, false);
 
+            var Chromosome = new Chromosome("1010");
+
             //create the genetic operators 
             var elite = new Elite(elitismPercentage);
 

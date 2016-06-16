@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkovChains", "MarkovChain
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LosoweKroki", "LosoweKroki\LosoweKroki.csproj", "{7D9CD65A-B2CF-432B-99E8-65B2A76E01CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PakowaniePlecakaGenetycznyAlgorytm", "PakowaniePlecakaGenetycznyAlgorytm\PakowaniePlecakaGenetycznyAlgorytm.csproj", "{B20AFF34-4563-4386-B500-1DA509F283CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorytmGenetycznyBinarnie", "AlgorytmGenetycznyBinarnie\AlgorytmGenetycznyBinarnie.csproj", "{D4B0D659-F066-4780-901A-417D47E84767}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{7D9CD65A-B2CF-432B-99E8-65B2A76E01CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D9CD65A-B2CF-432B-99E8-65B2A76E01CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D9CD65A-B2CF-432B-99E8-65B2A76E01CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B20AFF34-4563-4386-B500-1DA509F283CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20AFF34-4563-4386-B500-1DA509F283CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20AFF34-4563-4386-B500-1DA509F283CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20AFF34-4563-4386-B500-1DA509F283CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B0D659-F066-4780-901A-417D47E84767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B0D659-F066-4780-901A-417D47E84767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B0D659-F066-4780-901A-417D47E84767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B0D659-F066-4780-901A-417D47E84767}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

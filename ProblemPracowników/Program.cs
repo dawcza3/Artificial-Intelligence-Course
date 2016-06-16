@@ -23,7 +23,6 @@ namespace ProblemPracowników
                 foreach (var Employee in employees)
                 {
                     chromosome.Genes.Add(new Gene(Employee));
-
                 }
 
                 //var rnd = GAF.Threading.RandomProvider.GetThreadRandom();
